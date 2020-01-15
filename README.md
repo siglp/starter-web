@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Something changed here.
+Something changed here. After last change...
 
 ## How to contribute
+
+Last change here.
