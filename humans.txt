@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Petr Sigl -- Developer -- None
 
 # THANKS
 
