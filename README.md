@@ -16,7 +16,7 @@ Something changed here. After last change...
 
 ## How to contribute
 
-Last change here.
+Please fork and than pull.
 
 ### Copyright
 
