@@ -17,3 +17,7 @@ Something changed here. After last change...
 ## How to contribute
 
 Last change here.
+
+### Copyright
+
+Copyright PS
